@@ -1,6 +1,6 @@
 ### UCY Data Set 
 
-The dataset used in this project is open source and it is uploaded on [Github](https://github.com/crowdbotp/OpenTraj/tree/master/datasets/UCY/zara01). The dataset has been transformed into csv files uploaded in the dataset folder by using annotations provided with the dataset.
+The dataset used in this project is open source and it is uploaded in [Repository](https://github.com/crowdbotp/OpenTraj/tree/master/datasets/UCY/zara01). The dataset has been transformed into csv files uploaded in the dataset folder by using annotations provided with the dataset.
 
 ### Visualization
 
